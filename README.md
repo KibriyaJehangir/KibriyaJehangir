@@ -1,6 +1,7 @@
+![logo](https://github.com/KibriyaJehangir/KibriyaJehangir/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Kibriya Jehangir</h1>
 <h3 align="center">CS Student | Exploring the World of Technology & Software Development | Future Tech Innovator</h3>
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3bdcd9c7-9754-4a20-bc0b-656497cd7c0a" />
+<img width="400" align="right"  alt="image" src="https://github.com/user-attachments/assets/3bdcd9c7-9754-4a20-bc0b-656497cd7c0a" />
 
 
 
