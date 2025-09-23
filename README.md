@@ -1,4 +1,4 @@
-![logo](https://github.com/KibriyaJehangir/KibriyaJehangir/blob/main/Github%20banner.png)
+<img  alt="image" src="https://github.com/KibriyaJehangir/KibriyaJehangir/blob/main/banner.png" width="1500px"/>
 
 <h1 align="center">Hi 👋, I'm Kibriya Jehangir</h1>
 <h3 align="center">CS Student | Exploring the World of Technology & Software Development | Future Tech Innovator</h3>
